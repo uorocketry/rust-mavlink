@@ -67,7 +67,7 @@ serde_arrays = { version = "0.1.0", optional = true }
 "icarous" = []
 "common" = []
 "cubepilot" = ["common"]
-"uorocketry" = ["minimal"]
+"uorocketry" = []
 
 "all-dialects" = [
   "ardupilotmega",
